@@ -35,6 +35,6 @@ This project is a technical documentation page about HTML, created as part of a 
 
 ![Screenshot of the HTML Documentation Page](output/Screenshot%202025-04-20%20112558.png)
 
-## License
+## Deployed Link
 
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+You can view the live project here: [Technical Doc](https://amanhaidry.github.io/TechnicalDocs/)
